@@ -19,7 +19,10 @@ These HTML and CSS files demonstrate responsive web development.  This web appli
 
 
 ## Credits
-Solo projected completed as homework for Georgia Tech Full-Stack Flex Program. Trilogy Education provided assets. Utlized Bootstrap elements from https://www.getbootstrap.com
+Solo projected completed as homework for Georgia Tech Full-Stack Flex Program. Trilogy Education provided assets. 
+Utlized Bootstrap elements from https://www.getbootstrap.com
+Nav Bar Assistance https://www.w3schools.com/bootstrap4/bootstrap_navbar.asp
+
 
 
 
