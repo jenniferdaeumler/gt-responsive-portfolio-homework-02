@@ -17,7 +17,7 @@
         padding: 10px;
         font-family: 'Roboto', sans-serif;
         font-size: 10px;
-
+        border-radius: 15px;
     }
 
     .text-center {
@@ -26,25 +26,17 @@
         font-size: 50px;
     }
 
-    .row {
-        background-color: whitesmoke;
-        margin: auto;
-        padding: 10px;
-        text-align: center;
-    }
-
     .form-group {
         text-align: center;
+        font-size: 15px;
+        font-family: 'Roboto', sans-serif;
     }
 
     .btn {
         display: block;
         max-width: 300px;
         margin: auto;
-    }
-
-    .container-fluid {
-        color: green
+        font-family: 'Roboto', sans-serif;
     }
 </style>
 
@@ -75,11 +67,12 @@
         </ul>
     </div>
 </nav>
-<!--Container w/ Form -->
+<!--Container holding Form -->
 <div class="container" style="margin-top:30px"></div>
 
 <div class="col-sm-8">
-    <div class="text-center">Contact</div>
+    <p class="text-center">Contact</p>
+    <!--Form-->
     <form>
         <div class="form-group">
             <label for="formGroupExampleInput">Name</label>
@@ -96,7 +89,7 @@
             <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Leave me a note here.">
         </div>
 
-
+        <!--Submit Button-->
         <button type="button" class="btn btn-dark">Submit</button>
 
     </form>
