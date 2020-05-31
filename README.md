@@ -1,4 +1,6 @@
 # Responsive Portfolio Homework 02
+Project Link: https://jenniferdaeumler.github.io/gt-responsive-portfolio-homework-02/index.html<br>
+GitHub Link: https://github.com/jenniferdaeumler/gt-responsive-portfolio-homework-02 <br>
 
 ## Table of Contents (Optional)
 
@@ -19,9 +21,10 @@ These HTML and CSS files demonstrate responsive web development.  This web appli
 
 
 ## Credits
-Solo projected completed as homework for Georgia Tech Full-Stack Flex Program. Trilogy Education provided assets. 
-Utlized Bootstrap elements from https://www.getbootstrap.com
-Nav Bar Assistance https://www.w3schools.com/bootstrap4/bootstrap_navbar.asp
+Solo projected completed as homework for Georgia Tech Full-Stack Flex Program. Trilogy Education provided assets. <br>
+Utilized Bootstrap elements from https://www.getbootstrap.com<br>
+Navigation Bar Assistance https://www.w3schools.com/bootstrap4/bootstrap_navbar.asp <br>
+Various Responsive Code https://stackoverflow.com/
 
 
 
