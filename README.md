@@ -18,19 +18,22 @@ Clone the repo, and run the HTML files in browser.
 ## Usage 
 These HTML files contain HTML, CSS, and Bootstrap elements. They demonstrate responsive web development.  This web application is able to render well on different window, screen, and device sizes.  
 
-<img src="https://i.imgur.com/ZWyk9rS.png/">
-<img src="https://i.imgur.com/EVfj3Uh.png"/>
-<img src="https://i.imgur.com/C8gOZ19.png"/>
-<img src="https://i.imgur.com/o3OiuYc.png"/>
-<img src="https://i.imgur.com/g4lnipv.png"/>
-<img src="https://i.imgur.com/RkqxMlL.png"/>
+<img src="https://i.imgur.com/ctkdzLg.png?2"/>
+<img src="https://i.imgur.com/o3OiuYc.png?1"/>
+<img src="https://i.imgur.com/EVfj3Uh.png?"/>
+<img src="https://i.imgur.com/g4lnipv.png?1"/>
+<img src="https://i.imgur.com/C8gOZ19.png?1"/>
+<img src="https://i.imgur.com/ZiaD8Tp.png?1"/>
+
+
+
+
+
 ## Credits
 Solo projected completed as homework for Georgia Tech Full-Stack Flex Program. Trilogy Education provided assets. <br>
 Utilized Bootstrap elements from https://www.getbootstrap.com<br>
 Navigation Bar Assistance https://www.w3schools.com/bootstrap4/bootstrap_navbar.asp <br>
 Various Responsive Code https://stackoverflow.com/
-
-
 
 
 ## License
