@@ -16,10 +16,14 @@ Clone the repo, and run the HTML files in browser.
 
 
 ## Usage 
-[//]: # (CSS? Did you have one? Add screenshots)
-These HTML and CSS files demonstrate responsive web development.  This web application is able to render well on different window, screen, and device sizes.  
+These HTML files contain HTML, CSS, and Bootstrap elements. They demonstrate responsive web development.  This web application is able to render well on different window, screen, and device sizes.  
 
-
+<img src="https://i.imgur.com/ZWyk9rS.png/">
+<img src="https://i.imgur.com/EVfj3Uh.png"/>
+<img src="https://i.imgur.com/C8gOZ19.png"/>
+<img src="https://i.imgur.com/o3OiuYc.png"/>
+<img src="https://i.imgur.com/g4lnipv.png"/>
+<img src="https://i.imgur.com/RkqxMlL.png"/>
 ## Credits
 Solo projected completed as homework for Georgia Tech Full-Stack Flex Program. Trilogy Education provided assets. <br>
 Utilized Bootstrap elements from https://www.getbootstrap.com<br>
