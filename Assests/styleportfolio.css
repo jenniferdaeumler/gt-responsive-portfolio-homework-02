@@ -14,11 +14,13 @@
         padding-bottom: 10px;
         font-family: "Bebas Neue", cursive;
         font-size: 50px;
+        color: rgb(58, 57, 57);
     }
 
     .col-md-2 {
         padding: 10px;
         margin: auto;
+        color: rgb(58, 57, 57);
     }
     /* Trying to get Jennifer in Nav to be diff color
     .a{color: green;} */

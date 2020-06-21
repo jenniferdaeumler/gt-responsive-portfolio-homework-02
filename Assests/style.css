@@ -14,6 +14,7 @@
 
 h1{
     text-align: center;
+    color: rgb(58, 57, 57);
 }
 
 .col-md-9 {
@@ -21,6 +22,7 @@ h1{
     'Roboto'sans-serif;
     font-size: 18px;
     text-align: center;
+   color: rgb(58, 57, 57);
 }
 
 
