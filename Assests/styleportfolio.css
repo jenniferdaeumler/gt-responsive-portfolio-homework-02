@@ -9,7 +9,14 @@
         border-style: solid;
         border-color: rgba(14, 37, 37, 0.336);
     }
-
+    a{
+        font-size: 15px;
+        color: gray
+    }
+img{
+width:350px;
+height: 350px;;
+}
     .text-center {
         padding-bottom: 10px;
         font-family: "Bebas Neue", cursive;
