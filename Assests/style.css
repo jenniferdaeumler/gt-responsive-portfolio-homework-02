@@ -1,15 +1,9 @@
 /* body{
     background-color:rgba(168, 106, 240, 0.288);} */
 
-.container {
+.container-fluid {
     font-family:
         'Roboto'sans-serif;
-    background-color: whitesmoke;
-    border-style: solid;
-    border-color: rgba(14, 37, 37, 0.336);
-    padding: 10px;
-    border-radius: 15px;
-
 }
 
 h1{
