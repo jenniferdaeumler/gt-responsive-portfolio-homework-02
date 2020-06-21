@@ -46,3 +46,64 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+# Unit 08 Project 1 Homework: Professional Materials
+
+Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
+
+If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
+
+
+## Requirements
+
+* Updated portfolio featuring project 1 and two exemplary homework assignments. 
+
+* Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments. 
+
+* Updated resume
+
+* Updated LinkedIn profile
+
+
+## Grading
+
+| Requirement      | Weight |
+|---               |---     |
+| Portoflio        | 40%    |
+| GitHub Profile   | 40%    |
+| Resume           | 10%    |
+| LinkedIn Profile | 10%    |
+
+
+## Instructions
+
+1. [Updated Portfolio](#updated-portfolio)
+2. [GitHub Profile](#updated-github-profile)
+3. [Updated Resume](#updated-resume)
+4. [Updated LinkedIn](#updated-linkedin)
+
+### Updated Portfolio
+
+Your updated site should have the following content:
+
+* Your name
+
+* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
+
+
+
+* A list of projects. For each project, make sure you have the following:
+
+  * Project title
+
+  * Link to the deployed version
+
+  * Link to the GitHub repository
+
+  * Screenshot of the deployed application
+
+
+
+
+
+
+
