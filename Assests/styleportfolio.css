@@ -9,26 +9,28 @@
   border-color: rgba(14, 37, 37, 0.336);
 }
 
-img {
-  width: 350px;
-  height: 350px;
-}
-a{
-    color: gray;
+#badge{
+  font-size: 30px;
+align-items: center;
 background-color: white;
-    font-size: 20px;
+color: rgb(52, 52, 53);
 }
-.text-center {
+
+.col-md-12 {
+  text-align: center;
   padding-bottom: 10px;
   font-family: "Bebas Neue", cursive;
   font-size: 50px;
-  color: rgb(58, 57, 57);
-}
-
-.col-md-2 {
+  color: rgb(50, 50, 53);
   padding: 10px;
   margin: auto;
   color: rgb(58, 57, 57);
 }
+
+p{
+  font-size: 10px;
+  font-family: sans-serif;
+}
+
 /* Trying to get Jennifer in Nav to be diff color
     .a{color: green;} */
