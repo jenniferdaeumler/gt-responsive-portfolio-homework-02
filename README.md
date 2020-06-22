@@ -18,9 +18,9 @@ Clone the repo, and run the HTML files in browser.
 ## Usage 
 These HTML files contain HTML, CSS, and Bootstrap elements. They demonstrate responsive web development.  This web application is able to render well on different window, screen, and device sizes.  
 <br>
-<img src="Assests/AboutMe.png">
+<img src="Assests/AboutMe.png" style="height:200px">
 
-<img src="Assests/Contact.png">
+<img src="Assests/Contact.png" style="height:150px">
 
 ## Credits
 Solo projected completed as homework for Georgia Tech Full-Stack Flex Program. Trilogy Education provided assets. <br>
