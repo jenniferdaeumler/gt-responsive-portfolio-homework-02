@@ -1,5 +1,7 @@
-/* body{
-    background-color:rgba(168, 106, 240, 0.288);} */
+body{
+ border: 5px;
+ border-color: black;
+}
 
 .container-fluid {
   font-family: "Roboto" sans-serif;
@@ -23,17 +25,6 @@ h1 {
 img {
   align-items: center;
 }
-/* .col-md-3 {
-    margin: auto;
-    border-radius: 15px;
-}
-
-.col-md-9 {
-
-    margin: auto;
-    border-radius: 15px;
-
-} */
 
 .navbar-brand {
   font-family: "Roboto", sans-serif;
@@ -41,4 +32,8 @@ img {
 
 .nav-link {
   font-family: "Roboto" sans-serif;
+}
+
+.card-group{
+ 
 }
